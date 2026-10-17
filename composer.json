@@ -1,0 +1,22 @@
+{
+    "name": "thanatos-vf-2000/llms4gg",
+    "description": "LLMS For GinkGos - Plugin / LLMS Tools for WordPress",
+    "keywords": ["tools", "llms", "ai"],
+    "homepage": "https://ginkgos.net",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Franck VANHOUCKE",
+            "email": "contact@ginkgos.net",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+	"autoload": {
+			"psr-4": {"LLMS4GG\\": "./inc"}
+			}
+}

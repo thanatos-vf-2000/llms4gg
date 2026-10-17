@@ -1,0 +1,13 @@
+=== Customiser Tools For GinkGos ===
+
+== Archived Changelog Entries ==
+
+This file contains older changelog entries, so we can keep the size of the standard WordPress readme.txt file reasonable.
+For the latest changes, please see the "Changelog" section of the [readme.txt file](https://plugins.svn.wordpress.org/ct4gg/trunk/readme.txt).
+
+
+
+= 1.0.0 (202610) =
+*Release Date - 17 October 2026*
+
+* Initial version

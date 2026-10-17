@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Tools For GinkGos - Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-10 08:23+0000\n"
+"PO-Revision-Date: 2026-10-17 14:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.3.6\n"
+"X-Domain: ct4gg"
+
+#: inc/Admin/Admin.php:142 inc/Admin/Admin.php:158 inc/Admin/Admin.php:173
+msgid "Action non autorisée."
+msgstr "Action non autorisée."
+
+#: admin/views/settings-sections.php:43
+msgid "Actions"
+msgstr "Actions"
+
+#: admin/views/settings-general.php:69
+msgid ""
+"Activer la génération de l'arbre d'accès à partir du sitemap (llms-full.txt "
+"uniquement)"
+msgstr ""
+"Activer la génération de l'arbre d'accès à partir du sitemap (llms-full.txt "
+"uniquement)"
+
+#: admin/views/section-form.php:61
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#: admin/views/section-form.php:23
+msgid "Ajouter une section"
+msgstr "Ajouter une section"
+
+#: inc/Admin/Admin.php:67 admin/views/preview.php:28
+msgid "Aperçu"
+msgstr "Aperçu"
+
+#: admin/views/settings-general.php:65
+msgid "Arborescence d'accès via sitemap"
+msgstr "Arborescence d'accès via sitemap"
+
+#: inc/Core/Generator.php:67
+msgid "Arborescence du site"
+msgstr "Arborescence du site"
+
+#: admin/views/settings-sections.php:48
+msgid "Aucune section pour le moment."
+msgstr "Aucune section pour le moment."
+
+#: inc/Admin/Admin.php:127
+msgid "Cache vidé."
+msgstr "Cache vidé."
+
+#: admin/views/settings-general.php:57
+msgid ""
+"Ces contenus sont listés automatiquement : liens + extrait dans llms.txt, "
+"contenu complet dans llms-full.txt."
+msgstr ""
+"Ces contenus sont listés automatiquement : liens + extrait dans llms.txt, "
+"contenu complet dans llms-full.txt."
+
+#: admin/views/settings-sections.php:29
+msgid ""
+"Ces sections sont ajoutées manuellement dans llms.txt et/ou llms-full.txt : "
+"elles sont regroupées par nom de section (ex : Docs, Optional), puis triées "
+"par ordre d'apparition."
+msgstr ""
+"Ces sections sont ajoutées manuellement dans llms.txt et/ou llms-full.txt : "
+"elles sont regroupées par nom de section (ex : Docs, Optional), puis triées "
+"par ordre d'apparition."
+
+#: admin/views/settings-general.php:27
+msgid ""
+"Configurez la génération des fichiers llms.txt et llms-full.txt conformément "
+"au standard llmstxt.org."
+msgstr ""
+"Configurez la génération des fichiers llms.txt et llms-full.txt conformément "
+"au standard llmstxt.org."
+
+#: admin/views/settings-general.php:49
+msgid "Contenus inclus automatiquement"
+msgstr "Contenus inclus automatiquement"
+
+#: admin/views/settings-general.php:41
+msgid "Courte phrase affichée en citation juste sous le titre (blockquote)."
+msgstr "Courte phrase affichée en citation juste sous le titre (blockquote)."
+
+#: admin/views/section-form.php:42 admin/views/settings-sections.php:41
+msgid "Description"
+msgstr "Description"
+
+#: admin/views/settings-general.php:45
+msgid "Description complémentaire"
+msgstr "Description complémentaire"
+
+#: admin/views/settings-general.php:78
+msgid "Durée du cache (heures, 0 = désactivé)"
+msgstr "Durée du cache (heures, 0 = désactivé)"
+
+#: admin/views/settings-general.php:91
+msgid ""
+"En cas de 404 sur ces URLs : allez dans Réglages > Permaliens puis cliquez "
+"sur Enregistrer pour actualiser les règles de réécriture."
+msgstr ""
+"En cas de 404 sur ces URLs : allez dans Réglages > Permaliens puis cliquez "
+"sur Enregistrer pour actualiser les règles de réécriture."
+
+#: admin/views/section-form.php:46 admin/views/settings-sections.php:42
+msgid "Fichier cible"
+msgstr "Fichier cible"
+
+#. Author of the plugin
+msgid "Franck VANHOUCKE"
+msgstr "Franck VANHOUCKE"
+
+#. Author URI of the plugin
+msgid "https://ginkgos.net/"
+msgstr "https://ginkgos.net/"
+
+#. URI of the plugin
+#| msgid "https://ginkgos.net/plugin/ct4gg/"
+msgid "https://ginkgos.net/plugin/llms4gg/"
+msgstr "https://ginkgos.net/plugin/llms4gg/"
+
+#. Description of the plugin
+msgid "LLMS For GinkGos - Plugin / LLMS Tools for WordPress."
+msgstr "LLMS For GinkGos - Plugin / LLMS Tools for WordPress."
+
+#: admin/views/section-form.php:52
+msgid "llms-full.txt uniquement"
+msgstr "llms-full.txt uniquement"
+
+#: admin/views/section-form.php:50
+msgid "llms.txt + llms-full.txt"
+msgstr "llms.txt + llms-full.txt"
+
+#: admin/views/section-form.php:51
+msgid "llms.txt uniquement"
+msgstr "llms.txt uniquement"
+
+#: inc/Admin/Admin.php:64
+msgid "LLMS4GG"
+msgstr "LLMS4GG"
+
+#. Name of the plugin
+msgid "llms4gg"
+msgstr "llms4gg"
+
+#: admin/views/settings-general.php:26
+msgid "LLMS4GG — Réglages généraux"
+msgstr "LLMS4GG — Réglages généraux"
+
+#: admin/views/settings-general.php:61
+msgid "Longueur des extraits (mots)"
+msgstr "Longueur des extraits (mots)"
+
+#: admin/views/section-form.php:61
+msgid "Mettre à jour"
+msgstr "Mettre à jour"
+
+#: admin/views/settings-sections.php:61
+msgid "Modifier"
+msgstr "Modifier"
+
+#: admin/views/section-form.php:23
+msgid "Modifier la section"
+msgstr "Modifier la section"
+
+#: admin/views/section-form.php:30
+msgid "Nom de la section (ex : Docs, Optional)"
+msgstr "Nom de la section (ex : Docs, Optional)"
+
+#: admin/views/settings-sections.php:37
+msgid "Ordre"
+msgstr "Ordre"
+
+#: admin/views/section-form.php:57
+msgid "Ordre d'apparition"
+msgstr "Ordre d'apparition"
+
+#: inc/Admin/Admin.php:65
+msgid "Réglages"
+msgstr "Réglages"
+
+#: inc/Admin/Admin.php:65
+msgid "Réglages généraux"
+msgstr "Réglages généraux"
+
+#: admin/views/settings-general.php:38
+msgid "Résumé (citation)"
+msgstr "Résumé (citation)"
+
+#: admin/views/settings-sections.php:38
+msgid "Section"
+msgstr "Section"
+
+#: inc/Admin/Admin.php:125
+msgid "Section enregistrée."
+msgstr "Section enregistrée."
+
+#: inc/Admin/Admin.php:126
+msgid "Section supprimée."
+msgstr "Section supprimée."
+
+#: admin/views/settings-sections.php:33
+msgid "Sections enregistrées"
+msgstr "Sections enregistrées"
+
+#: inc/Admin/Admin.php:66 admin/views/settings-sections.php:28
+msgid "Sections statiques"
+msgstr "Sections statiques"
+
+#: admin/views/settings-sections.php:63
+msgid "Supprimer"
+msgstr "Supprimer"
+
+#: admin/views/settings-sections.php:63
+msgid "Supprimer cette section ?"
+msgstr "Supprimer cette section ?"
+
+#: admin/views/settings-sections.php:39
+msgid "Titre"
+msgstr "Titre"
+
+#: admin/views/section-form.php:34
+msgid "Titre du lien"
+msgstr "Titre du lien"
+
+#: admin/views/settings-general.php:34
+msgid "Titre du site (H1)"
+msgstr "Titre du site (H1)"
+
+#: admin/views/section-form.php:38 admin/views/settings-sections.php:40
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/settings-general.php:72
+msgid "URL du sitemap"
+msgstr "URL du sitemap"
+
+#: admin/views/settings-general.php:86
+msgid "URLs publiques"
+msgstr "URLs publiques"
+
+#: admin/views/preview.php:32
+msgid "Vider le cache"
+msgstr "Vider le cache"

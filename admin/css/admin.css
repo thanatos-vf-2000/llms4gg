@@ -1,0 +1,10 @@
+.llms4gg-wrap .llms4gg-form-box {
+	background: #fff;
+	border: 1px solid #ccd0d4;
+	padding: 15px 20px;
+	margin-bottom: 20px;
+}
+.llms4gg-wrap table.widefat td,
+.llms4gg-wrap table.widefat th {
+	vertical-align: top;
+}
